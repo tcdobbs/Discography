@@ -1,0 +1,3 @@
+# Discography
+Let's do it again...
+So, I've learned that adding an entire project at once is not good on GitHub.  I learn something new each day.
